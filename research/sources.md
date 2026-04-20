@@ -15,7 +15,7 @@
 - Why selected: Shares practical tutorials on scaling SEO content production using AI tools
 
 ## 3. Nathan Gotch
-- YouTube: https://www.youtube.com/@GotchSEO
+- YouTube: https://www.youtube.com/@nathangotch
 - LinkedIn: https://www.linkedin.com/in/nathangotch/
 - Focus: SEO fundamentals, AI-assisted content
 - Why selected: Combines strong SEO fundamentals with modern AI workflows for content production
