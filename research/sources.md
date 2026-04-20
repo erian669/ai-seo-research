@@ -16,7 +16,7 @@
 
 ## 3. Nathan Gotch
 - YouTube: https://www.youtube.com/@GotchSEO
-- LinkedIn: https://www.youtube.com/@nathangotch
+- LinkedIn: https://www.linkedin.com/in/nathangotch/
 - Focus: SEO fundamentals, AI-assisted content
 - Why selected: Combines strong SEO fundamentals with modern AI workflows for content production
 
