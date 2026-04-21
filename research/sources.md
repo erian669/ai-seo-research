@@ -32,11 +32,11 @@
 - Focus: SEO systems, content scaling
 - Why selected: Focuses on building repeatable systems for scaling SEO content efficiently
 
-## 6. Spencer Haws
-- YouTube: https://www.youtube.com/@niche-pursuits
-- LinkedIn: https://www.linkedin.com/in/spencer-haws-b898b31/
-- Focus: Niche sites, AI content experiments
-- Why selected: Documents real-world experiments using AI to generate and scale SEO content
+## 6. Mike King  
+- Youtube: https://www.youtube.com/@iPullRankSEO
+- LinkedIn: https://www.linkedin.com/in/michaelkingphilly/ 
+- Focus: Technical SEO, AI search, information retrieval, semantic search  
+- Why selected: One of the leading voices connecting SEO with modern AI systems, embeddings, and how search engines actually interpret content beyond keywords
 
 ## 7. Koray Tugberk GUBUR
 - YouTube: https://www.youtube.com/@TopicalAuthority
