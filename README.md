@@ -38,7 +38,7 @@ research/
 │   ├── matt-diggity-ai-seo.md
 │   └── nathan-gotch-new-playbook.md
 │
-└── source.md
+└── sources.md
 
 ```
 
