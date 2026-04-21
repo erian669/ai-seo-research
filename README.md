@@ -29,14 +29,17 @@ research/
 ├── other/
 │   ├── eric-siu.png
 │   ├── tom-niezgoda.jpg
-│   └── sources.md
+│   └── banner.svg
 │
-└── youtube-transcripts/
-    ├── gael-breton.md
-    ├── julian-goldie-link-building.md
-    ├── mark-webster.md
-    ├── matt-diggity-ai-seo.md
-    └── nathan-gotch-new-playbook.md
+├── youtube-transcripts/
+│   ├── gael-breton.md
+│   ├── julian-goldie-link-building.md
+│   ├── mark-webster.md
+│   ├── matt-diggity-ai-seo.md
+│   └── nathan-gotch-new-playbook.md
+│
+└── source.md
+
 ```
 
 Full source list with links and annotations: [`research/sources.md`](research/sources.md)
