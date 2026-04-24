@@ -213,7 +213,7 @@ None of the 10 experts in this research described a systematic process for *clos
 All 10 sources are content creators and practitioners who share findings through YouTube and LinkedIn, not peer-reviewed research. Sample sizes are often unclear (Patel's freshness correlation data is based on a survey, not observed system behavior; Niezgoda's blog correlation data comes from Surfer's internal dataset which may not be representative). Every statistic in this playbook should be treated as directional, not definitive.
 
 **2. The AI search landscape changes faster than any playbook can keep up.**  
-Several recommendations in this playbook may become outdated within 6 months. Nathan Gotch specifically notes that training cutoff dates mean strategies effective before a model's training cycle are "baked in" for that version — what works for GPT-5 may not work for GPT-6. This playbook should be reviewed and revised quarterly.
+Several recommendations in this playbook may become outdated within 6 months. Nathan Gotch specifically notes that training cutoff dates mean strategies effective before a model's training cycle are baked in for that version. What works for GPT-5 may not work for GPT-6. This playbook should be reviewed and revised quarterly.
 
 **3. This playbook assumes you already have traditional SEO fundamentals in place.**  
 The recommendations here are additive. If your site has poor crawlability, thin content, or weak backlink profile, AI citation optimization will produce limited results. Nathan Gotch's framing is correct: traditional search ranking is the *fuel* that makes AI search citation possible. This playbook does not cover foundational SEO.
