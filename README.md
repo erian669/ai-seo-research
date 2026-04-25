@@ -147,8 +147,6 @@ Full source list with URLs, publication dates, and annotations: [`research/sourc
 
 ### Data collection process
 
-*[Click to expand]*
-
 YouTube transcripts were collected via the [Supadata API](https://supadata.ai/), using their transcript endpoint with `text=True` to return clean plain-text output:
 
 ```python
