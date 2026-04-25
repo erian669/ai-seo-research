@@ -1,4 +1,4 @@
-# AI-Powered SEO Content Production — Research & Playbook
+# GEO Matrix: A Systems-First SOP for AI-Powered SEO Content
 ![Banner](research/other/banner.svg)
 *A structured research repository documenting how AI is reshaping SEO content production — from keyword-based ranking to generative engine optimization (GEO).*
 
