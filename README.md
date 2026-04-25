@@ -1,73 +1,155 @@
-# AI-Powered SEO Content Production Research
-
+# AI-Powered SEO Content Production — Research & Playbook
 ![Banner](research/other/banner.svg)
+*A structured research repository documenting how AI is reshaping SEO content production — from keyword-based ranking to generative engine optimization (GEO).*
 
-A structured research repository documenting how AI is reshaping SEO content production — from keyword-based ranking to generative engine optimization (GEO).
-
-Built as part of a growth marketing research project, this repo collects and organizes content from 10 practitioners who actively build AI-driven SEO systems, not just write about them.
-
----
-
-## Topic
-
-**AI-powered SEO content production** — how AI tools and workflows are changing the way content is created, structured, and optimized for both traditional search engines and AI-driven discovery systems like ChatGPT, Perplexity, and Gemini.
+**Erian Hadi**  
+Built as part of a growth marketing application project, April 2026.
 
 ---
 
-## Repository Structure
+## Table of Contents
+
+- [Who is this for?](#who-is-this-for)
+- [Why this playbook?](#why-this-playbook)
+- [The SEO shift at a glance](#the-seo-shift-at-a-glance)
+- [Repository structure](#repository-structure)
+- [The 10 experts](#the-10-experts)
+  - [Selection criteria](#selection-criteria)
+  - [Expert profiles](#expert-profiles)
+- [Research methodology](#research-methodology)
+  - [Source collection](#source-collection)
+  - [Data collection process](#data-collection-process)
+- [Playbook](#playbook)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+## Who is this for?
+
+This document is for growth marketers, SEO practitioners, and content strategists who want to understand and apply **AI-powered SEO content production** in practice.
+
+The research covers how AI tools and workflows are changing the way content is created, structured, and optimized for both traditional search engines and AI-driven discovery systems like ChatGPT, Perplexity, and Google AI Overviews.
+
+Basic familiarity with SEO concepts (rankings, backlinks, on-page optimization) is assumed. No deep technical knowledge is required.
+
+## Why this playbook?
+
+***Summary:*** *Most AI SEO content is opinion. This repository collects and synthesizes what practitioners who actually build these systems are doing, then turns it into a usable SOP.*
+
+The internet is full of hot takes on "AI SEO." What's rare is:
+
+- Practitioners sharing real systems with documented results (not theory)
+- Honest disagreements between experts, rather than consensus-washing
+- A clear, actionable SOP that tells you what to do *in what order*
+
+This repository was built to fill that gap. The 10 experts selected here were chosen because they ship working systems, not because they have large audiences. The playbook that follows is grounded entirely in their documented outputs.
+
+---
+
+## The SEO shift at a glance
+
+In 2026, SEO runs as two parallel games. Winning the first makes you *eligible* for the second.
+
+| | Traditional SEO | AI Search (GEO) |
+|---|---|---|
+| | Keywords | Intent + reasoning |
+| | Rankings | Recommendations |
+| | Pages | Passages |
+| | Traffic | Conversions |
+
+Traditional search (Google, Bing) still drives the majority of site traffic, but AI platforms (ChatGPT, Perplexity, Google AI Overviews) are growing fast and operate on fundamentally different rules. AI systems don't return a list of links — they synthesize an answer and cite sources. Getting cited is the new ranking.
+
+The critical connection: AI platforms that use live web search (RAG) pull from whatever is currently ranking in traditional search. Winning traditional search is what makes you a *candidate* for AI citation in the first place.
+
+---
+
+## Repository structure
 
 ```
-research/
+ai-seo-research/
+├── research
+│   ├── linkedin-posts
+│   │   ├── .gitkeep
+│   │   ├── eric-siu.md
+│   │   ├── koray-tugberk-gubur.md
+│   │   ├── mike-king.md
+│   │   ├── neil-patel.md
+│   │   ├── tom-niezgoda.md
+│   │
+│   ├── other
+│   │   ├── .gitkeep
+│   │   ├── banner.svg
+│   │   ├── eric-siu.png
+│   │   ├── tom-niezgoda.jpg
+│   │
+│   ├── youtube-transcripts
+│   │   ├── .gitkeep
+│   │   ├── gael-breton.md
+│   │   ├── julian-goldie-link-building.md
+│   │   ├── mark-webster.md
+│   │   ├── matt-diggity-ai-seo.md
+│   │   ├── nathan-gotch-new-playbook.md
+│   │
+│   └── sources.md
 │
-├── linkedin-posts/
-│   ├── eric-siu.md
-│   ├── koray-tugberk-gubur.md
-│   ├── mike-king.md
-│   ├── neil-patel.md
-│   └── tom-niezgoda.md
-│
-├── other/
-│   ├── eric-siu.png
-│   ├── tom-niezgoda.jpg
-│   └── banner.svg
-│
-├── youtube-transcripts/
-│   ├── gael-breton.md
-│   ├── julian-goldie-link-building.md
-│   ├── mark-webster.md
-│   ├── matt-diggity-ai-seo.md
-│   └── nathan-gotch-new-playbook.md
-│
-└── sources.md
-
+├── PLAYBOOK.md
+└── README.md
 ```
 
-Full source list with links and annotations: [`research/sources.md`](research/sources.md)
+**Note on structure:** Sources are organized by platform (LinkedIn posts, YouTube transcripts) to preserve the original collection context and make it easy to verify raw sources. The playbook synthesizes across both per expert.
 
 ---
 
-## The 10 Experts
+## The 10 experts
 
-These were selected based on one criterion: they build and ship real AI-SEO systems, not just commentary. Each has a documented track record of sharing case studies, workflows, or tools — not theory.
+### Selection criteria
 
-| # | Expert | Focus | Why Selected |
-|---|--------|-------|--------------|
-| 1 | [Matt Diggity](https://www.linkedin.com/in/mattdiggityseo/) | SEO testing, AI workflows | Data-driven experiments with real ranking case studies |
-| 2 | [Julian Goldie](https://www.linkedin.com/in/juliangoldieseo/) | AI SEO automation, link building | Practical tutorials on scaling content production with AI |
-| 3 | [Nathan Gotch](https://www.linkedin.com/in/nathangotch/) | SEO fundamentals, AI-assisted content | Bridges strong SEO foundations with modern AI workflows |
-| 4 | [Gael Breton](https://www.linkedin.com/in/gael-breton/) | Authority sites, AI content systems | Builds structured, scalable AI-driven content systems |
-| 5 | [Mark Webster](https://www.linkedin.com/in/markwebster1/) | SEO systems, content scaling | Focuses on repeatable systems for scaling SEO content |
-| 6 | [Mike King](https://www.linkedin.com/in/michaelkingphilly/) | Technical SEO, semantic search, AI search | Connects SEO with embeddings, information retrieval, and how AI actually interprets content |
-| 7 | [Koray Tugberk GUBUR](https://www.linkedin.com/in/koray-tugberk-gubur/) | Semantic SEO, topical authority | Advanced content structure and search intent optimization |
-| 8 | [Tomasz Niezgoda](https://www.linkedin.com/in/niezgoda-tomasz/) | AI content optimization, on-page SEO | Builds AI-powered SEO tools at Surfer SEO, shares practical optimization insights |
-| 9 | [Eric Siu](https://www.linkedin.com/in/ericosiu/) | B2B marketing, AI-driven growth | Strategic view on scaling marketing and content using AI and automation |
-| 10 | [Neil Patel](https://www.linkedin.com/in/neilkpatel/) | SEO, content marketing, AI tools | High-volume practitioner frequently documenting AI's role in content production |
+***Summary:*** *Experts were selected on one criterion: they build and ship real AI-SEO systems with documented results, not commentary.*
+
+Each expert included here has a track record of sharing:
+
+- Case studies with before/after data
+- Specific workflows, tools, or systems they use in production
+- At least one source from 2025 to 2026, reflecting the current AI search landscape
+
+Experts who primarily share opinion pieces, general strategy, or repackaged advice from others were excluded regardless of audience size.
+
+### Expert profiles
+
+| # | Expert | Focus | Why Selected | Source File |
+|---|--------|-------|-------------|-------------|
+| 1 | [**Matt Diggity**](https://www.linkedin.com/in/mattdiggity/) | SEO testing, AI workflows | Data-driven experiments with real ranking case studies; documented a 2,000%+ AI traffic increase for a client | [matt-diggity-ai-seo.md](research/youtube-transcripts/matt-diggity-ai-seo.md) |
+| 2 | [**Julian Goldie**](https://www.linkedin.com/in/juliangoldie/) | AI SEO automation, link building | Practical tutorials on scaling content production with AI; shares specific tools and processes | [julian-goldie-link-building.md](research/youtube-transcripts/julian-goldie-link-building.md) |
+| 3 | [**Nathan Gotch**](https://www.linkedin.com/in/nathangotch/) | SEO fundamentals, AI-assisted content | Bridges strong SEO foundations with modern AI workflows; author of *AI SEO for Dummies*; runs two SEO companies | [nathan-gotch-new-playbook.md](research/youtube-transcripts/nathan-gotch-new-playbook.md) |
+| 4 | [**Gael Breton**](https://www.linkedin.com/in/gaelbreton/) | Authority sites, AI content systems | Builds structured, scalable AI-driven content systems; provides skeptical counterweight to GEO hype | [gael-breton.md](research/youtube-transcripts/gael-breton.md) |
+| 5 | [**Mark Webster**](https://www.linkedin.com/in/mark-webster-authority-hacker/) | SEO systems, content scaling | Focuses on repeatable systems for scaling SEO content; co-founder of Authority Hacker | [mark-webster.md](research/youtube-transcripts/mark-webster.md) |
+| 6 | [**Mike King**](https://www.linkedin.com/in/michaelkingphilly/) | Technical SEO, semantic search, AI search | Connects SEO with embeddings, information retrieval, and how AI interprets content at the passage level | [mike-king.md](research/linkedin-posts/mike-king.md) |
+| 7 | [**Koray Tuğberk GÜBÜR**](https://www.linkedin.com/in/koray-tugberk-gubur/) | Semantic SEO, topical authority | Advanced content structure and search intent optimization; documented case studies on entity-based SEO | [koray-tugberk-gubur.md](research/linkedin-posts/koray-tugberk-gubur.md) |
+| 8 | [**Tomasz Niezgoda**](https://www.linkedin.com/in/niezgoda-tomasz/) | AI content optimization, on-page SEO | Works directly on AI-powered SEO tools at Surfer SEO; shares original research data on AI citation patterns | [tom-niezgoda.md](research/linkedin-posts/tom-niezgoda.md) |
+| 9 | [**Eric Siu**](https://www.linkedin.com/in/ericosiu/) | B2B marketing, AI-driven growth | Runs 7 AI agents in production; shares operational insights on AI system maintenance that most practitioners ignore | [eric-siu.md](research/linkedin-posts/eric-siu.md) |
+| 10 | [**Neil Patel**](https://www.linkedin.com/in/neilkpatel/) | SEO, content marketing, AI tools | High-volume practitioner; included for breadth and for critical analysis of methodology quality | [neil-patel.md](research/linkedin-posts/neil-patel.md) |
 
 ---
 
-## Data Collection
+## Research methodology
 
-**YouTube transcripts** were collected via the [Supadata API](https://supadata.ai), using their transcript endpoint with `text=True` to return clean plain text output. Example:
+### Source collection
+
+***Summary:*** *Each expert was tracked across their primary content channels. Sources were selected for recency (2025 to 2026) and specificity (concrete claims over general advice).*
+
+For each expert, the following source types were collected where available:
+
+- **YouTube videos** — prioritizing tutorial-style content with specific tactics or case studies over interviews or commentary
+- **LinkedIn posts** — prioritizing posts with original data, frameworks, or documented experiments
+- **Blog posts and tools** — where linked directly from the above
+
+Full source list with URLs, publication dates, and annotations: [`research/sources.md`](research/sources.md)
+
+### Data collection process
+
+*[Click to expand]*
+
+YouTube transcripts were collected via the [Supadata API](https://supadata.ai/), using their transcript endpoint with `text=True` to return clean plain-text output:
 
 ```python
 from supadata import Supadata
@@ -81,62 +163,40 @@ transcript = supadata.transcript(
 )
 ```
 
-**LinkedIn posts** were collected manually — copied directly from each expert's profile, preserving original formatting and dates.
+LinkedIn posts were collected manually — copied directly from each expert's profile and annotated with key insights, patterns observed, and the researcher's interpretation.
+
+Each source file follows a consistent structure:
+- Source metadata (title, author, platform, URL, date)
+- Raw content or transcript
+- Key insights extracted
+- Patterns observed
+- Researcher's take
 
 ---
 
-## Key Research Themes
+## Playbook
 
-### 1. GEO (Generative Engine Optimization)
-- AI search prioritizes **answers over links**
-- Goal shifts from *ranking* → to *being cited*
+The full SOP — including all cited recommendations, expert disagreements, rejected ideas, original ideas, and honest limitations — is in [`PLAYBOOK.md`](PLAYBOOK.md).
 
-### 2. Chunking & Retrieval
-- Optimal content blocks: **100–300 tokens**
-- Improves passage-level retrieval, semantic matching, and AI citation likelihood
+The playbook covers:
 
-### 3. Freshness Over Structure
-- Recent data heavily influences AI outputs
-- Updating content increases visibility and citation probability
+- **Phase 1 — Audit:** Map your current AI citation landscape before creating anything new
+- **Phase 2 — Content production:** Structural and writing rules that make content retrievable by AI systems, including passage-level chunking, structured data markup, and credibility signals
+- **Phase 3 — Off-page visibility:** How to get cited in the third-party content AI already trusts, and why early citations snowball
+- **Phase 4 — Operations:** How to monitor and maintain AI-assisted workflows so they don't degrade silently
 
-### 4. Brand Mentions in Blogs
-- Third-party blog mentions strongly correlate with AI recommendation ranking
-- Digital PR is becoming a core SEO lever
+It also includes:
 
-### 5. AI Agent Ecosystems
-- Shift toward autonomous agents and machine-readable content (JSON, Markdown)
-- Maintenance and monitoring are emerging challenges
+- **Where experts disagree** — 3 documented disagreements with a stated position on each
+- **What I rejected and why** — 2 ideas from the research that didn't make it in, with reasoning
+- **My original ideas** — 1 framework not found in any source (the AI Citation Feedback Loop), with rationale
+- **Weaknesses** — honest limitations of the playbook and its evidence base
+- **Who not to follow** — critical assessment of source quality across the 10 experts
 
 ---
 
-## Why This Matters
+## Acknowledgments
 
-Search is undergoing a fundamental shift:
+Research collected from publicly available content by Matt Diggity, Julian Goldie, Nathan Gotch, Gael Breton, Mark Webster, Mike King, Koray Tuğberk GÜBÜR, Tomasz Niezgoda, Eric Siu, and Neil Patel. All sources are cited in [`research/sources.md`](research/sources.md) and inline throughout [`PLAYBOOK.md`](PLAYBOOK.md).
 
-| Traditional SEO | AI Search (GEO)    |
-|-----------------|--------------------|
-| Keywords        | Intent + reasoning |
-| Rankings        | Recommendations    |
-| Pages           | Passages           |
-| Traffic         | Conversions        |
-
----
-
-## Future Work
-
-- Build structured datasets for AI retrieval testing
-- Create GEO optimization frameworks
-- Analyze citation patterns across LLMs
-- Develop prompt-based content testing systems
-
----
-
-## Author
-
-**Erian Hadi**  
-Information Systems Student — focused on AI, SEO, and digital systems
-
----
-
-> The future of SEO is not about being found.  
-> It's about being *chosen by AI*.
+Transcript collection powered by [Supadata](https://supadata.ai/).
