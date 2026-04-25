@@ -174,22 +174,53 @@ Each source file follows a consistent structure:
 
 ## Playbook
 
-The full SOP — including all cited recommendations, expert disagreements, rejected ideas, original ideas, and honest limitations — is in [`PLAYBOOK.md`](PLAYBOOK.md).
+The full, version-controlled SOP is located in [`PLAYBOOK.md`](PLAYBOOK.md). Below is a high-level summary of the core strategies and original frameworks derived from this research.
 
-The playbook covers:
+### Core Mental Model: The Parallel Game
+In 2026, SEO is no longer a single-track effort. It is two parallel games:
+* **Game 1 (Traditional Search):** Rank web pages to stay *eligible* for retrieval.
+* **Game 2 (AI Search/GEO):** Earn citations to stay *visible* in synthesized answers.
 
-- **Phase 1 — Audit:** Map your current AI citation landscape before creating anything new
-- **Phase 2 — Content production:** Structural and writing rules that make content retrievable by AI systems, including passage-level chunking, structured data markup, and credibility signals
-- **Phase 3 — Off-page visibility:** How to get cited in the third-party content AI already trusts, and why early citations snowball
-- **Phase 4 — Operations:** How to monitor and maintain AI-assisted workflows so they don't degrade silently
+> **One-line summary:** Win traditional search to stay *eligible*. Win AI citation to stay *visible*.
 
-It also includes:
+### The 4-Phase SOP (Summary)
 
-- **Where experts disagree** — 3 documented disagreements with a stated position on each
-- **What I rejected and why** — 2 ideas from the research that didn't make it in, with reasoning
-- **My original ideas** — 1 framework not found in any source (the AI Citation Feedback Loop), with rationale
-- **Weaknesses** — honest limitations of the playbook and its evidence base
-- **Who not to follow** — critical assessment of source quality across the 10 experts
+<details>
+<summary><b>Phase 1: Audit Your AI Presence (Click to Expand)</b></summary>
+
+* **Map Citation Landscape:** Run 15–20 core keywords through ChatGPT, Perplexity, and Google AI Overviews to identify "AI keyword gaps."
+* **Query Classification:** Use Google Search Console’s Branded/Non-Branded filters to see how AI systems (which absorb Google’s understanding) categorize your brand.
+</details>
+
+<details>
+<summary><b>Phase 2: Content Structure & Production (Click to Expand)</b></summary>
+
+* **Passage-Level Retrieval (Chunking):** Structure content into modular, self-contained "chunks" rather than long, flowing narratives to aid machine extraction.
+* **Conversational Directness:** Open articles with direct answers (the "TL;DR" method) to satisfy AI Overview triggers.
+* **Freshness & Authority:** Implement a 90-day review cycle for time-sensitive topics and use Schema markup (`FAQPage`, `HowTo`) to define entities.
+* **Credibility Signals:** Mirror AI’s citation logic by linking to primary research and maintaining high-rated profiles on trust platforms (LinkedIn, Trustpilot).
+</details>
+
+<details>
+<summary><b>Phase 3: Off-Page AI Visibility (Click to Expand)</b></summary>
+
+* **The Citation Snowball:** Target mentions in third-party blogs already cited by AI. AI systems are trained on their own outputs; getting cited once increases the probability of being cited everywhere.
+* **AI-Scaled Outreach:** Use LLMs to scale hyper-personalized link-building pitches to high-DR domains (50+).
+</details>
+
+<details>
+<summary><b>Phase 4: Operations & Maintenance (Click to Expand)</b></summary>
+
+* **System Monitoring:** Build a three-layer detection system (Detection, Meta-Analysis, Feedback) to prevent AI content agents from "silent degradation" or logic drift.
+* **GEO Traffic Tracking:** Segment GA4 traffic specifically for AI referrers (ChatGPT, Perplexity) to measure higher-intent conversion rates.
+</details>
+
+### Original Framework: The AI Citation Feedback Loop (ACFL)
+While most experts treat AI SEO as a one-time project, this playbook proposes a **continuous empirical loop**:
+1.  **Weekly Audit:** Record who AI is citing for your top 20 queries.
+2.  **Reverse-Engineer:** Identify the specific paragraph structure of cited competitors.
+3.  **Iterate:** Update your "chunks" and re-test within 7 days.
+4.  **Standardize:** Build a "Citation Asset Library" of content blocks that repeatedly earn citations.
 
 ---
 
