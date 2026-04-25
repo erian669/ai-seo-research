@@ -135,7 +135,7 @@ Use AI tools to scale link building outreach: research prospects, understand the
 
 If you use AI agents in your content production workflow (auto-publishing, content summarization, email outreach, etc.), build a three-layer monitoring system:
 
-1. **Detection Layer:** Continuously monitor output quality metrics, not just system logs. Look for anomalies such as zero engagement, zero conversions, or zero replies, not just crashes.
+1. **Detection Layer:** Continuously monitor output quality metrics, not just system logs. This repository includes an automated [Monitor Drift Script](./scripts/monitor_drift.py) as a functional example to programmatically check for citation signals such as TL;DR blocks and current-year timestamps. Look for anomalies such as zero engagement, zero conversions, or zero replies, not just crashes.
 2. **Meta-Analyzer Layer:** When anomalies are detected, investigate root causes: broken prompts, logic drift, data issues.
 3. **Automated Feedback Loop:** Build systems that generate fix recommendations and update prompts automatically.
 
