@@ -93,6 +93,10 @@ ai-seo-research/
 │   │
 │   └── sources.md
 │
+├── scripts
+│   └── monitor_drift.py
+│
+├── LICENSE
 ├── PLAYBOOK.md
 └── README.md
 ```
