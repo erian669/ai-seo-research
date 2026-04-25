@@ -46,7 +46,7 @@ Use AHREFs' Brand Radar tool to find which AI keywords mention you versus your c
 
 **Step 1.2: Audit your branded vs non-branded query classification**
 
-Check Google Search Console's Branded/Non-Branded filter to understand how Google classifies your queries. What Google considers branded can include domain name terms, synonym variations, and site name terms, not just your exact brand name. This matters because AI systems absorb Google's query understanding. (Source: Koray Tugberk GUBUR, [LinkedIn post](https://www.linkedin.com/in/koray-tugberk-gubur/), March 2026)
+Check Google Search Console's Branded/Non-Branded filter to understand how Google classifies your queries. What Google considers branded can include domain name terms, synonym variations, and site name terms, not just your exact brand name. This matters because AI systems absorb Google's query understanding. (Source: Koray Tugberk GUBUR, [LinkedIn post](https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-started-rolling-out-quick-filtering-activity-7438364867897483264-Q9XX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmum5UBIaS_6qJsOm3aFCJB-2ClFLhzBZo), March 2026)
 
 ---
 
@@ -70,7 +70,7 @@ Each content section should be:
 - Clear and modular (one idea per block)
 - Specific enough to match a real sub-question
 
-The web is shifting from "Google-shaped" to "agent-shaped." Machines now recombine content across sources, so every section of your article is potentially a standalone citation unit. (Source: Mike King, [Chunking Is About Retrieval, Not Ranking](https://www.linkedin.com/in/michaelkingphilly/), LinkedIn, January 2026)
+The web is shifting from "Google-shaped" to "agent-shaped." Machines now recombine content across sources, so every section of your article is potentially a standalone citation unit. (Source: Mike King, [Chunking Is About Retrieval, Not Ranking](https://www.linkedin.com/posts/michaelkingphilly_moving-from-a-google-shaped-web-to-an-agent-shaped-activity-7417585335389294592-L5fg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmum5UBIaS_6qJsOm3aFCJB-2ClFLhzBZo), LinkedIn, January 2026)
 
 **Step 2.3: Add structured data markup**
 
@@ -87,13 +87,13 @@ Tactical application:
 - For time-sensitive topics, set a 90-day review cycle
 - Prioritize updating existing content over creating new content if your site is already well-indexed
 
-(Source: Neil Patel, [What Makes Content Citable by AI](https://www.linkedin.com/in/neilkpatel/), LinkedIn, April 21, 2026)
+(Source: Neil Patel, [What Makes Content Citable by AI](https://www.linkedin.com/feed/update/urn:li:activity:7452114049929998336/), LinkedIn, April 21, 2026)
 
 **Step 2.5: Build topical authority through semantic depth**
 
 AI systems don't just evaluate individual articles; they evaluate how comprehensively a domain covers a topic. Nathan Gotch frames this as "Search Everywhere Optimization": owning a topic across multiple platforms and content formats, not just one page. (Source: Nathan Gotch, [What is SEO in 2026?](https://www.youtube.com/watch?v=lkFA-aBN_LM), 2026)
 
-Koray Tugberk GUBUR's work adds a critical technical layer: low-search-volume query terms and branded queries connected to topic-related queries directly influence "ranking necessity" signals in Google's systems. Don't skip zero-volume terms when building topic clusters. (Source: Koray Tugberk GUBUR, [LinkedIn post](https://www.linkedin.com/in/koray-tugberk-gubur/), March 2026)
+Koray Tugberk GUBUR's work adds a critical technical layer: low-search-volume query terms and branded queries connected to topic-related queries directly influence "ranking necessity" signals in Google's systems. Don't skip zero-volume terms when building topic clusters. (Source: Koray Tugberk GUBUR, [LinkedIn post](https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-started-rolling-out-quick-filtering-activity-7438364867897483264-Q9XX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmum5UBIaS_6qJsOm3aFCJB-2ClFLhzBZo), March 2026)
 
 **Step 2.6: Add credibility signals to every piece of content**
 
@@ -111,7 +111,7 @@ AI systems cite sources they trust. Apply the same citation logic to your conten
 
 **Step 3.1: Get cited in third-party blogs AI already trusts**
 
-Surfer SEO's research shows blog mentions have the highest correlation (~0.35) with AI response ranking, higher than news sites (~0.22), brand websites (~0.20), reviews, and forums. Despite making up only ~28% of cited sources, blog mentions are the single most predictive signal for AI recommendation strength. (Source: Tom Niezgoda, [Blog Mentions Drive AI Visibility](https://www.linkedin.com/in/niezgoda-tomasz/), LinkedIn, February 2026)
+Surfer SEO's research shows blog mentions have the highest correlation (~0.35) with AI response ranking, higher than news sites (~0.22), brand websites (~0.20), reviews, and forums. Despite making up only ~28% of cited sources, blog mentions are the single most predictive signal for AI recommendation strength. (Source: Tom Niezgoda, [Blog Mentions Drive AI Visibility](https://www.linkedin.com/posts/niezgoda-tomasz_our-latest-research-reveals-a-hidden-gem-activity-7429226821025419264-bUv5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmum5UBIaS_6qJsOm3aFCJB-2ClFLhzBZo), LinkedIn, February 2026)
 
 There is also a compounding dynamic worth understanding here. Once a source is cited by one AI system, it tends to be cited by others. AI systems are partially trained on web content that includes AI-generated summaries and citations, which creates a snowball effect for early citations. Getting cited first, even in a smaller AI platform, increases the probability of being cited in others. This reinforces the early-mover argument without relying solely on traffic growth data.
 
@@ -139,7 +139,7 @@ If you use AI agents in your content production workflow (auto-publishing, conte
 2. **Meta-Analyzer Layer:** When anomalies are detected, investigate root causes: broken prompts, logic drift, data issues.
 3. **Automated Feedback Loop:** Build systems that generate fix recommendations and update prompts automatically.
 
-Eric Siu's team reduced time-to-fix from 11 days to 36 hours by implementing this architecture. The demo era of AI agents is ending; the maintenance era is starting. (Source: Eric Siu, [AI Agents Will Fail Without Maintenance Systems](https://www.linkedin.com/in/ericosiu/), LinkedIn, April 17, 2026)
+Eric Siu's team reduced time-to-fix from 11 days to 36 hours by implementing this architecture. The demo era of AI agents is ending; the maintenance era is starting. (Source: Eric Siu, [AI Agents Will Fail Without Maintenance Systems](https://www.linkedin.com/posts/ericosiu_most-ai-agent-content-on-this-platform-activity-7450921075011510273-sEyp?), LinkedIn, April 17, 2026)
 
 **Step 4.2: Track AI traffic separately from traditional search traffic**
 
@@ -161,9 +161,9 @@ AI-referred traffic behaves differently, often showing higher intent and higher 
 
 ### Disagreement 2: What is the #1 factor for AI citation — freshness or structure?
 
-**Neil Patel's position:** Freshness is the dominant factor at ~91% correlation, dwarfing structure (~79%) and authority (~17%). If your content is outdated, AI will skip it. ([LinkedIn post](https://www.linkedin.com/in/neilkpatel/), April 21, 2026)
+**Neil Patel's position:** Freshness is the dominant factor at ~91% correlation, dwarfing structure (~79%) and authority (~17%). If your content is outdated, AI will skip it. ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7452114049929998336/), April 21, 2026)
 
-**Mike King's position:** Structure is the foundational factor. Content must be chunked correctly for passage-level retrieval. Without proper structure, freshness doesn't matter because AI systems can't extract useful passages from your content. ([LinkedIn post](https://www.linkedin.com/in/michaelkingphilly/), January 2026)
+**Mike King's position:** Structure is the foundational factor. Content must be chunked correctly for passage-level retrieval. Without proper structure, freshness doesn't matter because AI systems can't extract useful passages from your content. ([LinkedIn post](https://www.linkedin.com/posts/michaelkingphilly_moving-from-a-google-shaped-web-to-an-agent-shaped-activity-7417585335389294592-L5fg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmum5UBIaS_6qJsOm3aFCJB-2ClFLhzBZo), January 2026)
 
 **My take:** These aren't actually opposed; they address different parts of the problem. King is talking about *discoverability*: can AI extract useful passages from your content at all? Patel is talking about *selection priority*: when multiple sources cover the same topic, which gets cited? The correct sequence is structure first (to be retrieval-eligible), then freshness (to be selected over competitors). Don't treat these as alternatives. It's also worth noting that Patel's data comes from a practitioner survey, not observed AI behavior, so the specific numbers should be treated as directional rather than definitive (see Section 6).
 
