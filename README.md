@@ -67,6 +67,7 @@ The critical connection: AI platforms that use live web search (RAG) pull from w
 
 ```
 ai-seo-research/
+│
 ├── research
 │   ├── linkedin-posts
 │   │   ├── .gitkeep
